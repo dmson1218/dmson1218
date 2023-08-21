@@ -1,4 +1,4 @@
-## 🛠 Tech Stack 🛠 
+## 🛠 Tech
 ### Languages
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/> <img alt="C" src="https://camo.githubusercontent.com/b8e75db4ca1e09333bdc1c24f742ec392314fb52ec73c033448c6a00e7c66c1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532302d2532333233373045442e7376673f6c6f676f3d63266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/dynamic/C%20-%232370ED.svg?logo=c&amp;logoColor=white" style="max-width: 100%;">&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
 
