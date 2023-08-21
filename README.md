@@ -15,4 +15,4 @@
 <br/>
 
 ## 🏹 BOJ
-[![dmson1218's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnsib1217)](https://solved.ac/profile/dmson1218) 
+[![dmson1218's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmson1218)](https://solved.ac/profile/dmson1218) 
