@@ -1,3 +1,14 @@
+## 🧑‍💻 History
+> - 성균관대학교 컴퓨터교육과 2019.03 ~
+> - 부스트캠프 웹・모바일 8기 2023.07 ~
+
+<br>
+
+## 🏹 BOJ
+[![dmson1218's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmson1218)](https://solved.ac/profile/dmson1218) 
+
+<br>
+
 ## 🛠 Tech
 ### Languages
 <p>
@@ -22,9 +33,3 @@
 <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-064F8C?logo=unity&logoColor=white"/>
 </p>
-
-<br>
-
-## 🏹 BOJ
-[![dmson1218's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmson1218)](https://solved.ac/profile/dmson1218) 
-
