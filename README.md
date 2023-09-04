@@ -18,6 +18,7 @@
 ### Backend
 <p>
 <img src="https://img.shields.io/badge/-Node.js-%23339933?logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express-%23000000?logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=MySQL&logoColor=white"/>
 </p>
 
