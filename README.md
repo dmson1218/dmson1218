@@ -6,7 +6,6 @@
 [![dmson1218's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmson1218)](https://solved.ac/profile/dmson1218) 
 
 ## 🛠 Tech
-### Languages
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-%232370ED?logo=c&logoColor=white"/>
@@ -15,14 +14,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 </p>
 
-### Backend
 <p>
 <img src="https://img.shields.io/badge/-Node.js-%23339933?logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Express-%23000000?logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-%234479A1?logo=MySQL&logoColor=white"/>
 </p>
 
-### Tools
 <p>
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
