@@ -7,7 +7,7 @@
 
 ## 🛠 Tech
 <p>
-<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=Javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-%232370ED?logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-%23239120?logo=c-sharp&logoColor=white"/>
