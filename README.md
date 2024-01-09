@@ -1,6 +1,6 @@
 ## 🧑‍💻 History
 - 성균관대학교 컴퓨터교육과 2019.03 ~
-- 부스트캠프 웹・모바일 8기 2023.07 ~
+- 부스트캠프 웹・모바일 8기 2023.07 ~ 2023.12
 
 ## 🏹 PS
 [![dmson1218's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmson1218)](https://solved.ac/profile/dmson1218) 
