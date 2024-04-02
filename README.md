@@ -4,7 +4,7 @@
 
 ## 🏹 PS
 [![dmson1218's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmson1218)](https://solved.ac/profile/dmson1218) 
-
+<!--
 ## 🛠 Tech
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black"/>
